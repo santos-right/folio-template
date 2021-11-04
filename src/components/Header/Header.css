@@ -13,12 +13,12 @@
     justify-content: flex-end;
 }
 
-.menu-icon {
+.menu-icon i {
     font-size: 24px;
-    display: none;
+    /* display: none; */
 }
 
-.mobile-menu  {
+.mobile-menu {
     display: none;
 }
 
@@ -33,7 +33,7 @@
 }
 
 .logo img {
-    width: 10rem;
+    width: 8rem;
 }
 
 @media only screen and (max-width: 720px) {
@@ -46,6 +46,6 @@
     }
 
     .logo img {
-        width: 8rem;
+        width: 6rem;
     }
 }

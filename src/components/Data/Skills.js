@@ -1,6 +1,6 @@
 export const SkillsData = [
     {
-        type: "FrontEnd",
+        type: "Frontend",
         list: [
             {
                 name: "Html",

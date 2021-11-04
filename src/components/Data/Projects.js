@@ -2,7 +2,7 @@ export const ProjectData = [
     {
         id: 1,
         title: "Musical Brand",
-        about: "An admin dashbaord with card and table page template",
+        about: "A website for a musical band",
         tags: [
             "Html",
             "Css",

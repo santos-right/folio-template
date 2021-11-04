@@ -20,7 +20,7 @@ function Header() {
                     <div onClick={() => setIsOpen(!isOpen)}>
                         <i className="fas fa-th-large menu-icon"></i>
                     </div>
-                    {isOpen && <Mobile isOpen ={isOpen} setIsOpen={setIsOpen} />}
+                    {isOpen && <Mobile isOpen = {isOpen} setIsOpen = {setIsOpen} />}
                 </div>
             </div>
         </div>
